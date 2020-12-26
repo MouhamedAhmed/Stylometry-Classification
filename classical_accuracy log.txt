@@ -1,0 +1,18 @@
+
+vaidation accuracy of Naive Bayes classifier using TfIdf Feature =  0.9212328767123288
+training accuracy of Naive Bayes classifier using TfIdf Feature =  0.9637522595376272
+
+vaidation accuracy of Naive Bayes classifier using Count Feature =  0.9375
+training accuracy of Naive Bayes classifier using Count Feature =  0.998002093045381
+
+vaidation accuracy of Naive Bayes classifier using both TfIdf and Count Features =  0.9357876712328768
+training accuracy of Naive Bayes classifier using both TfIdf and Count Features =  0.9979069546189706
+
+vaidation accuracy of Logistic Regression classifier using TfIdf Feature =  0.910958904109589
+training accuracy of Logistic Regression classifier using TfIdf Feature =  0.981067453144325
+
+vaidation accuracy of Logistic Regression classifier using Count Feature =  0.8912671232876712
+training accuracy of Logistic Regression classifier using Count Feature =  0.9984777851774331
+
+vaidation accuracy of Logistic Regression classifier using both TfIdf and Count Features =  0.8955479452054794
+training accuracy of Logistic Regression classifier using both TfIdf and Count Features =  0.9981923698982019
