@@ -8,10 +8,10 @@
 - Block 2: Linear_Layer(256,128), BatchNorm, ReLU
 - Block 3: Linear_Layer(128,2), Sigmoid
 ## Dataset
-data.csv​ : csv file contains text written by two writers
+data.csv​ : csv file obtained from [Spooky Author Identification Competition](https://www.kaggle.com/c/spooky-author-identification/) on Kaggle contains text written by two writers
 - HP Lovecraft (HPL)
 - Mary Wollstonecraft Shelley (MWS)
-obtained from [Spooky Author Identification Competition](https://www.kaggle.com/c/spooky-author-identification/) on Kaggle
+
 
 
 ## Usage
