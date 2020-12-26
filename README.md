@@ -1,9 +1,9 @@
 # Stylometry Classification
 
-######There are two approaches implemented here that can be followed to classify after feature extraction in the stylometry problem First, Classical Approaches
+###### There are two approaches implemented here that can be followed to classify after feature extraction in the stylometry problem First, Classical Approaches
 - Naive Bayes
 - Logistic Regression
-######Second, Multi-Layer Perceptron whose architecture is 3 blocks
+###### Second, Multi-Layer Perceptron whose architecture is 3 blocks
 - Block 1: Linear_Layer(input_dim,256), BatchNorm, ReLU
 - Block 2: Linear_Layer(256,128), BatchNorm, ReLU
 - Block 3: Linear_Layer(128,2), Sigmoid
