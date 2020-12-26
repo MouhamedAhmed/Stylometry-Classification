@@ -1,17 +1,17 @@
 # Stylometry Classification
 
 There are two approaches implemented here that can be followed to classify after feature extraction in the stylometry problem
-First, Classical approaches
-    - Naive Bayes
-    - Logistic Regression
+First, Classical Approaches
+- Naive Bayes
+- Logistic Regression
 Second, Multi-Layer Perceptron whose architecture is 3 blocks
-    - Block 1: Linear_Layer(input_dim,256), BatchNorm, ReLU
-    - Block 2: Linear_Layer(256,128), BatchNorm, ReLU
-    - Block 3: Linear_Layer(128,2), Sigmoid
+- Block 1: Linear_Layer(input_dim,256), BatchNorm, ReLU
+- Block 2: Linear_Layer(256,128), BatchNorm, ReLU
+- Block 3: Linear_Layer(128,2), Sigmoid
 ## Dataset
 data.csv​ : csv file contains text written by two writers
-    - HP Lovecraft (HPL)
-    - Mary Wollstonecraft Shelley (MWS)
+- HP Lovecraft (HPL)
+- Mary Wollstonecraft Shelley (MWS)
 obtained from [Spooky Author Identification Competition](https://www.kaggle.com/c/spooky-author-identification/) on Kaggle
 
 
